@@ -10,9 +10,7 @@ in learning by doing, not just studying theory.
 
 I'm working toward a role as a SOC Analyst or Security Analyst, where I can apply 
 my GIAC-backed foundation in networking and security fundamentals to real-world 
-threat detection and incident response. I'm building my skills through structured 
-training (GIAC certifications, MyDFIR SOC Analyst course) and hands-on labs 
-(Active Directory, Entra ID, TryHackMe), and I'm looking for an opportunity to 
+threat detection and incident response. I'm looking for an opportunity to 
 bring that dedication and hands-on mindset to a security team.
 
 <!--
