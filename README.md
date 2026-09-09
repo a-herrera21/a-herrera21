@@ -35,8 +35,9 @@ I'm working toward a role as a SOC Analyst or Security Analyst, where I can appl
 | [Linux Server Hardening Lab](https://github.com/a-herrera21/Linux-server-hardening) | Hardened a Debian 13 VPS on Linode: automatic security updates, non-root privileged account, SSH key-only login, custom SSH port, UFW firewall, ICMP blocking. Notes include the actual errors I hit and how I fixed them. |
 | Active Directory Lab | In progress, based on the John Hammond AD series. |
 | SOC Analyst Notes | In progress, notes and labs from the MyDFIR SOC Analyst course. |
-
 | [SSH Log Analyzer & Brute-Force Detector](https://github.com/a-herrera21/ssh-log-analyzer) | Built a 4-stage Python pipeline that parses real SSH auth logs from my hardened server, detects brute-force and credential-stuffing patterns, enriches flagged IPs via the AbuseIPDB API, and generates a SOC-style incident report. Includes real detection results and the errors I hit along the way. |
+
+
 
 
 ## 📫 Currently
