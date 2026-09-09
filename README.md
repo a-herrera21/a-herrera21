@@ -36,6 +36,9 @@ I'm working toward a role as a SOC Analyst or Security Analyst, where I can appl
 | Active Directory Lab | In progress, based on the John Hammond AD series. |
 | SOC Analyst Notes | In progress, notes and labs from the MyDFIR SOC Analyst course. |
 
+| [SSH Log Analyzer & Brute-Force Detector](https://github.com/a-herrera21/ssh-log-analyzer) | Built a 4-stage Python pipeline that parses real SSH auth logs from my hardened server, detects brute-force and credential-stuffing patterns, enriches flagged IPs via the AbuseIPDB API, and generates a SOC-style incident report. Includes real detection results and the errors I hit along the way. |
+
+
 ## 📫 Currently
 
 Working through the MyDFIR SOC Analyst course, and running labs in Wireshark, Nmap, and Splunk as I go.
